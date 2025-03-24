@@ -1,0 +1,1685 @@
+{
+    "items": [
+        {
+            "boundingBox": {
+                "polygon": [
+                    7.5644,
+                    5.7811,
+                    8.2614,
+                    5.7811,
+                    8.2614,
+                    5.9085,
+                    7.5644,
+                    5.9085
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-3c7117605903",
+            "origin": "hsCode"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    4.6768,
+                    5.7811,
+                    6.2934,
+                    5.7811,
+                    6.2934,
+                    5.9085,
+                    4.6768,
+                    5.9085
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-3c7117605903",
+            "origin": "quantity"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.2934,
+                    5.7811,
+                    6.7678,
+                    5.7811,
+                    6.7678,
+                    5.9085,
+                    6.2934,
+                    5.9085
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-3c7117605903",
+            "origin": "unitValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.7678,
+                    5.7811,
+                    7.5644,
+                    5.7811,
+                    7.5644,
+                    5.9085,
+                    6.7678,
+                    5.9085
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-3c7117605903",
+            "origin": "totalValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8003,
+                    1.8939,
+                    2.0859,
+                    1.8974,
+                    2.0859,
+                    2.6146,
+                    0.8003,
+                    2.6146
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-3c7117605903",
+            "origin": "countryOfOrigin"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8286,
+                    5.7811,
+                    1.9649,
+                    5.7811,
+                    1.9649,
+                    5.9085,
+                    0.8286,
+                    5.9085
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-3c7117605903",
+            "origin": "productDescription"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    7.5644,
+                    5.6465,
+                    8.2614,
+                    5.6465,
+                    8.2614,
+                    5.7811,
+                    7.5644,
+                    5.7811
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-3060bdce904e",
+            "origin": "hsCode"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    4.6768,
+                    5.6465,
+                    6.2934,
+                    5.6465,
+                    6.2934,
+                    5.7811,
+                    4.6768,
+                    5.7811
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-3060bdce904e",
+            "origin": "quantity"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.2934,
+                    5.6465,
+                    6.7678,
+                    5.6465,
+                    6.7678,
+                    5.7811,
+                    6.2934,
+                    5.7811
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-3060bdce904e",
+            "origin": "unitValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.7678,
+                    5.6465,
+                    7.5644,
+                    5.6465,
+                    7.5644,
+                    5.7811,
+                    6.7678,
+                    5.7811
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-3060bdce904e",
+            "origin": "totalValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8003,
+                    1.8939,
+                    2.0859,
+                    1.8974,
+                    2.0859,
+                    2.6146,
+                    0.8003,
+                    2.6146
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-3060bdce904e",
+            "origin": "countryOfOrigin"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    1.9649,
+                    5.6428,
+                    4.6768,
+                    5.6465,
+                    4.6768,
+                    5.7811,
+                    1.9649,
+                    5.7811
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-3060bdce904e",
+            "origin": "productDescription"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    7.5644,
+                    5.5227,
+                    8.2614,
+                    5.5227,
+                    8.2614,
+                    5.6465,
+                    7.5644,
+                    5.6465
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-293eaba7eeeb",
+            "origin": "hsCode"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    4.6768,
+                    5.5227,
+                    6.2934,
+                    5.5227,
+                    6.2934,
+                    5.6465,
+                    4.6768,
+                    5.6465
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-293eaba7eeeb",
+            "origin": "quantity"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.2934,
+                    5.5227,
+                    6.7678,
+                    5.5227,
+                    6.7678,
+                    5.6465,
+                    6.2934,
+                    5.6465
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-293eaba7eeeb",
+            "origin": "unitValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.7678,
+                    5.5227,
+                    7.5644,
+                    5.5227,
+                    7.5644,
+                    5.6465,
+                    6.7678,
+                    5.6465
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-293eaba7eeeb",
+            "origin": "totalValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8003,
+                    1.8939,
+                    2.0859,
+                    1.8974,
+                    2.0859,
+                    2.6146,
+                    0.8003,
+                    2.6146
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-293eaba7eeeb",
+            "origin": "countryOfOrigin"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8286,
+                    5.5227,
+                    4.6768,
+                    5.5227,
+                    4.6768,
+                    5.6465,
+                    0.8286,
+                    5.6465
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-293eaba7eeeb",
+            "origin": "productDescription"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    7.5644,
+                    5.2789,
+                    8.2614,
+                    5.2789,
+                    8.2614,
+                    5.4026,
+                    7.5644,
+                    5.4026
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-1c4da2041d59",
+            "origin": "hsCode"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    4.6768,
+                    5.2789,
+                    6.2934,
+                    5.2789,
+                    6.2934,
+                    5.4026,
+                    4.6768,
+                    5.4026
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-1c4da2041d59",
+            "origin": "quantity"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.2934,
+                    5.2789,
+                    6.7678,
+                    5.2789,
+                    6.7678,
+                    5.4026,
+                    6.2934,
+                    5.4026
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-1c4da2041d59",
+            "origin": "unitValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.7678,
+                    5.2789,
+                    7.5644,
+                    5.2789,
+                    7.5644,
+                    5.4026,
+                    6.7678,
+                    5.4026
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-1c4da2041d59",
+            "origin": "totalValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8003,
+                    1.8939,
+                    2.0859,
+                    1.8974,
+                    2.0859,
+                    2.6146,
+                    0.8003,
+                    2.6146
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-1c4da2041d59",
+            "origin": "countryOfOrigin"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    1.9649,
+                    5.2789,
+                    4.6768,
+                    5.2789,
+                    4.6768,
+                    5.4026,
+                    1.9649,
+                    5.4026
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-1c4da2041d59",
+            "origin": "productDescription"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    7.5644,
+                    5.4026,
+                    8.2614,
+                    5.4026,
+                    8.2614,
+                    5.5227,
+                    7.5644,
+                    5.5227
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-22e57af21e4f",
+            "origin": "hsCode"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    4.6768,
+                    5.4026,
+                    6.2934,
+                    5.4026,
+                    6.2934,
+                    5.5227,
+                    4.6768,
+                    5.5227
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-22e57af21e4f",
+            "origin": "quantity"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.2934,
+                    5.4026,
+                    6.7678,
+                    5.4026,
+                    6.7678,
+                    5.5227,
+                    6.2934,
+                    5.5227
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-22e57af21e4f",
+            "origin": "unitValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.7678,
+                    5.4026,
+                    7.5644,
+                    5.4026,
+                    7.5644,
+                    5.5227,
+                    6.7678,
+                    5.5227
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-22e57af21e4f",
+            "origin": "totalValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8003,
+                    1.8939,
+                    2.0859,
+                    1.8974,
+                    2.0859,
+                    2.6146,
+                    0.8003,
+                    2.6146
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-22e57af21e4f",
+            "origin": "countryOfOrigin"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8286,
+                    5.4063,
+                    4.6768,
+                    5.4026,
+                    4.6768,
+                    5.5227,
+                    0.8286,
+                    5.5227
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-22e57af21e4f",
+            "origin": "productDescription"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    7.5644,
+                    6.4217,
+                    8.2614,
+                    6.4217,
+                    8.2614,
+                    6.5491,
+                    7.5644,
+                    6.5491
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-648c60ab25f7",
+            "origin": "hsCode"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    4.6768,
+                    6.4217,
+                    6.2934,
+                    6.4217,
+                    6.2934,
+                    6.5455,
+                    4.6768,
+                    6.5455
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-648c60ab25f7",
+            "origin": "quantity"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.2934,
+                    6.4217,
+                    6.7678,
+                    6.4217,
+                    6.7678,
+                    6.5455,
+                    6.2934,
+                    6.5455
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-648c60ab25f7",
+            "origin": "unitValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.7678,
+                    6.4217,
+                    7.5644,
+                    6.4217,
+                    7.5644,
+                    6.5491,
+                    6.7678,
+                    6.5455
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-648c60ab25f7",
+            "origin": "totalValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8003,
+                    1.8939,
+                    2.0859,
+                    1.8974,
+                    2.0859,
+                    2.6146,
+                    0.8003,
+                    2.6146
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-648c60ab25f7",
+            "origin": "countryOfOrigin"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8228,
+                    6.4217,
+                    1.9649,
+                    6.4217,
+                    1.9649,
+                    6.5455,
+                    0.8228,
+                    6.5455
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-648c60ab25f7",
+            "origin": "productDescription"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    7.5644,
+                    6.5491,
+                    8.2614,
+                    6.5491,
+                    8.2614,
+                    6.6619,
+                    7.5644,
+                    6.6619
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-6fd5cff9e97b",
+            "origin": "hsCode"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    4.6768,
+                    6.5455,
+                    6.2934,
+                    6.5455,
+                    6.2934,
+                    6.6619,
+                    4.6768,
+                    6.6619
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-6fd5cff9e97b",
+            "origin": "quantity"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.2934,
+                    6.5455,
+                    6.7678,
+                    6.5455,
+                    6.7678,
+                    6.6619,
+                    6.2934,
+                    6.6619
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-6fd5cff9e97b",
+            "origin": "unitValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.7678,
+                    6.5455,
+                    7.5644,
+                    6.5491,
+                    7.5644,
+                    6.6619,
+                    6.7678,
+                    6.6619
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-6fd5cff9e97b",
+            "origin": "totalValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8003,
+                    1.8939,
+                    2.0859,
+                    1.8974,
+                    2.0859,
+                    2.6146,
+                    0.8003,
+                    2.6146
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-6fd5cff9e97b",
+            "origin": "countryOfOrigin"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8228,
+                    6.5455,
+                    1.9649,
+                    6.5455,
+                    1.9649,
+                    6.6619,
+                    0.8228,
+                    6.6619
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-6fd5cff9e97b",
+            "origin": "productDescription"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    7.5644,
+                    5.9085,
+                    8.2614,
+                    5.9085,
+                    8.2614,
+                    6.0396,
+                    7.5644,
+                    6.0359
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-42fc876a6b3d",
+            "origin": "hsCode"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    4.6768,
+                    5.9085,
+                    6.2934,
+                    5.9085,
+                    6.2934,
+                    6.0359,
+                    4.6768,
+                    6.0359
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-42fc876a6b3d",
+            "origin": "quantity"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.2934,
+                    5.9085,
+                    6.7678,
+                    5.9085,
+                    6.7678,
+                    6.0359,
+                    6.2934,
+                    6.0359
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-42fc876a6b3d",
+            "origin": "unitValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.7678,
+                    5.9085,
+                    7.5644,
+                    5.9085,
+                    7.5644,
+                    6.0359,
+                    6.7678,
+                    6.0359
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-42fc876a6b3d",
+            "origin": "totalValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8003,
+                    1.8939,
+                    2.0859,
+                    1.8974,
+                    2.0859,
+                    2.6146,
+                    0.8003,
+                    2.6146
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-42fc876a6b3d",
+            "origin": "countryOfOrigin"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    1.9649,
+                    5.9085,
+                    4.6768,
+                    5.9085,
+                    4.6768,
+                    6.0359,
+                    1.9649,
+                    6.0396
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-42fc876a6b3d",
+            "origin": "productDescription"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    7.5644,
+                    6.0359,
+                    8.2614,
+                    6.0396,
+                    8.2614,
+                    6.1633,
+                    7.5644,
+                    6.1633
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-4e334ecbae52",
+            "origin": "hsCode"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    4.6768,
+                    6.0359,
+                    6.2934,
+                    6.0359,
+                    6.2934,
+                    6.1633,
+                    4.6768,
+                    6.1633
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-4e334ecbae52",
+            "origin": "quantity"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.2934,
+                    6.0359,
+                    6.7678,
+                    6.0359,
+                    6.7678,
+                    6.1633,
+                    6.2934,
+                    6.1633
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-4e334ecbae52",
+            "origin": "unitValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.7678,
+                    6.0359,
+                    7.5644,
+                    6.0359,
+                    7.5644,
+                    6.1633,
+                    6.7678,
+                    6.1633
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-4e334ecbae52",
+            "origin": "totalValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8003,
+                    1.8939,
+                    2.0859,
+                    1.8974,
+                    2.0859,
+                    2.6146,
+                    0.8003,
+                    2.6146
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-4e334ecbae52",
+            "origin": "countryOfOrigin"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    1.9649,
+                    6.0396,
+                    4.6768,
+                    6.0359,
+                    4.6768,
+                    6.1633,
+                    1.9649,
+                    6.1669
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-4e334ecbae52",
+            "origin": "productDescription"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    7.5644,
+                    6.1633,
+                    8.2614,
+                    6.1633,
+                    8.2614,
+                    6.2907,
+                    7.5644,
+                    6.2907
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-55c7a9ad0710",
+            "origin": "hsCode"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    4.6768,
+                    6.1633,
+                    6.2934,
+                    6.1633,
+                    6.2934,
+                    6.2907,
+                    4.6768,
+                    6.2907
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-55c7a9ad0710",
+            "origin": "quantity"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.2934,
+                    6.1633,
+                    6.7678,
+                    6.1633,
+                    6.7678,
+                    6.2907,
+                    6.2934,
+                    6.2907
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-55c7a9ad0710",
+            "origin": "unitValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.7678,
+                    6.1633,
+                    7.5644,
+                    6.1633,
+                    7.5644,
+                    6.2907,
+                    6.7678,
+                    6.2907
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-55c7a9ad0710",
+            "origin": "totalValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8003,
+                    1.8939,
+                    2.0859,
+                    1.8974,
+                    2.0859,
+                    2.6146,
+                    0.8003,
+                    2.6146
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-55c7a9ad0710",
+            "origin": "countryOfOrigin"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    1.9649,
+                    6.1669,
+                    4.6768,
+                    6.1633,
+                    4.6768,
+                    6.2907,
+                    1.9649,
+                    6.2943
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-55c7a9ad0710",
+            "origin": "productDescription"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    7.5644,
+                    6.2907,
+                    8.2614,
+                    6.2907,
+                    8.2614,
+                    6.4217,
+                    7.5644,
+                    6.4217
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-5b711d308cd5",
+            "origin": "hsCode"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    4.6768,
+                    6.2907,
+                    6.2934,
+                    6.2907,
+                    6.2934,
+                    6.4217,
+                    4.6768,
+                    6.4217
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-5b711d308cd5",
+            "origin": "quantity"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.2934,
+                    6.2907,
+                    6.7678,
+                    6.2907,
+                    6.7678,
+                    6.4217,
+                    6.2934,
+                    6.4217
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-5b711d308cd5",
+            "origin": "unitValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.7678,
+                    6.2907,
+                    7.5644,
+                    6.2907,
+                    7.5644,
+                    6.4217,
+                    6.7678,
+                    6.4217
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-5b711d308cd5",
+            "origin": "totalValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8003,
+                    1.8939,
+                    2.0859,
+                    1.8974,
+                    2.0859,
+                    2.6146,
+                    0.8003,
+                    2.6146
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-5b711d308cd5",
+            "origin": "countryOfOrigin"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    1.9649,
+                    6.2943,
+                    4.6768,
+                    6.2907,
+                    4.6768,
+                    6.4217,
+                    1.9649,
+                    6.4217
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-5b711d308cd5",
+            "origin": "productDescription"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    7.5644,
+                    4.8894,
+                    8.2556,
+                    4.8894,
+                    8.2556,
+                    5.0277,
+                    7.5644,
+                    5.0277
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-03b663b7bdc1",
+            "origin": "hsCode"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    4.6768,
+                    4.8894,
+                    6.2934,
+                    4.8894,
+                    6.2934,
+                    5.0277,
+                    4.6768,
+                    5.0277
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-03b663b7bdc1",
+            "origin": "quantity"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.2934,
+                    4.8894,
+                    6.7678,
+                    4.8894,
+                    6.7678,
+                    5.0277,
+                    6.2934,
+                    5.0277
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-03b663b7bdc1",
+            "origin": "unitValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.7678,
+                    4.8894,
+                    7.5644,
+                    4.8894,
+                    7.5644,
+                    5.0277,
+                    6.7678,
+                    5.0277
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-03b663b7bdc1",
+            "origin": "totalValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8003,
+                    1.8939,
+                    2.0859,
+                    1.8974,
+                    2.0859,
+                    2.6146,
+                    0.8003,
+                    2.6146
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-03b663b7bdc1",
+            "origin": "countryOfOrigin"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    1.9649,
+                    4.8894,
+                    4.6768,
+                    4.8894,
+                    4.6768,
+                    5.0277,
+                    1.9649,
+                    5.0277
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-03b663b7bdc1",
+            "origin": "productDescription"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    7.5644,
+                    5.0277,
+                    8.2556,
+                    5.0277,
+                    8.2614,
+                    5.1515,
+                    7.5644,
+                    5.1551
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-0b9951704f03",
+            "origin": "hsCode"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    4.6768,
+                    5.0277,
+                    6.2934,
+                    5.0277,
+                    6.2934,
+                    5.1551,
+                    4.6768,
+                    5.1551
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-0b9951704f03",
+            "origin": "quantity"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.2934,
+                    5.0277,
+                    6.7678,
+                    5.0277,
+                    6.7678,
+                    5.1551,
+                    6.2934,
+                    5.1551
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-0b9951704f03",
+            "origin": "unitValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.7678,
+                    5.0277,
+                    7.5644,
+                    5.0277,
+                    7.5644,
+                    5.1551,
+                    6.7678,
+                    5.1551
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-0b9951704f03",
+            "origin": "totalValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8003,
+                    1.8939,
+                    2.0859,
+                    1.8974,
+                    2.0859,
+                    2.6146,
+                    0.8003,
+                    2.6146
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-0b9951704f03",
+            "origin": "countryOfOrigin"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    1.9649,
+                    4.8894,
+                    4.6768,
+                    4.8894,
+                    4.6768,
+                    5.0277,
+                    1.9649,
+                    5.0277
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-0b9951704f03",
+            "origin": "productDescription"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    7.5644,
+                    5.1551,
+                    8.2614,
+                    5.1515,
+                    8.2614,
+                    5.2789,
+                    7.5644,
+                    5.2789
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-15bd7b184b9c",
+            "origin": "hsCode"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    4.6768,
+                    5.1551,
+                    6.2934,
+                    5.1551,
+                    6.2934,
+                    5.2789,
+                    4.6768,
+                    5.2789
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-15bd7b184b9c",
+            "origin": "quantity"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.2934,
+                    5.1551,
+                    6.7678,
+                    5.1551,
+                    6.7678,
+                    5.2789,
+                    6.2934,
+                    5.2789
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-15bd7b184b9c",
+            "origin": "unitValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    6.7678,
+                    5.1551,
+                    7.5644,
+                    5.1551,
+                    7.5644,
+                    5.2789,
+                    6.7678,
+                    5.2789
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-15bd7b184b9c",
+            "origin": "totalValue"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8003,
+                    1.8939,
+                    2.0859,
+                    1.8974,
+                    2.0859,
+                    2.6146,
+                    0.8003,
+                    2.6146
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-15bd7b184b9c",
+            "origin": "countryOfOrigin"
+        },
+        {
+            "boundingBox": {
+                "polygon": [
+                    0.8286,
+                    5.1551,
+                    1.9649,
+                    5.1551,
+                    1.9649,
+                    5.2789,
+                    0.8286,
+                    5.2789
+                ],
+                "pageNumber": 1
+            },
+            "offset": 0,
+            "pageNumber": 1,
+            "documentId": "0195c87c-1023-7000-ba8f-98909198015e",
+            "itemId": "0195c87f-00ef-7aac-bbb7-15bd7b184b9c",
+            "origin": "productDescription"
+        }
+    ],
+    "documentId": "0195c87c-1023-7000-ba8f-98909198015e"
+}
