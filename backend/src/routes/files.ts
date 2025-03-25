@@ -6,7 +6,7 @@ import path from 'path';
 const router = Router();
 
 
-router.get('/getfiles', (req, res) => {
+router.get('/getDocument', (req, res) => {
     const documentData = JSON.parse(fs.readFileSync(path.join(__dirname, '../document.json'), 'utf8'));
     res.json(documentData);
 });
