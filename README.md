@@ -27,7 +27,7 @@ The frontend application will run at `http://localhost:5174`
 - Load document from the backend when page opens (endpoint is already set but is currently not being called anywhere in the frontend)
 - Store response in Redux store
 - Create a bounding box and document viewer
-- render the image base64 data in to a doucment viewer and add bounding boxes of the items included in the response
+- render the image base64 data in to a docment viewer and add bounding boxes of the items included in the response
 
 ### Interaction Requirements
 - Clicking an item in the table should highlight or show selected the corresponding bounding box in the document viewer
