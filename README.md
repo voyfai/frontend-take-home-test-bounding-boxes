@@ -35,6 +35,7 @@ The frontend application will run at `http://localhost:5174`
 - Implement a toggle option on the table row  to show either all bounding boxes or just one
 - The bounding boxes should hold their size when the page is resized
 - the bounding boxes should show the title of the attribute they correlate to
+- take in to consideration that the bounding boxes unit of measure is in inches you can use the azure ocr documentation for further reference
 
 
 
