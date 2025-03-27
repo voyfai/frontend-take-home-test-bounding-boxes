@@ -1,39 +1,34 @@
-import { useEffect } from 'react';
-import { useDispatch, useSelector } from 'react-redux'
-import "../pages/Documents.css"
-import { AppDispatch, RootState } from '../store/store';
+import React, { useEffect } from "react";
+import { useDispatch } from "react-redux";
+import { fetchDocumentsData } from "../store/documentThunks";
+import DocumentViewer from "../components/DocumentViewer";
+import "./Documents.css";
+import { AppDispatch } from "../store";
 
-const FileList = () => {
+const Documents: React.FC = () => {
+  // Initialize Redux dispatch with typed AppDispatch
   const dispatch = useDispatch<AppDispatch>();
-  const { documents } = useSelector((state: RootState) => state.documents);
 
+   /**
+   * Effect hook for fetching document data when component mounts
+   * Uses Redux thunk action to handle async data fetching
+   * Dependency array ensures it only runs once on mount
+   */
+
+  useEffect(() => {
+    dispatch(fetchDocumentsData());
+  }, [dispatch]);
 
   return (
-    <div className="table-container">
-        Document Id / Name
-      <table>
-        <thead>
-          <tr>
-            <th>itemId </th>
-            <th>origin</th>
-            <th>Actions</th>
-          </tr>
-        </thead>
-        <tbody>
-          {documents.map((document) => (
-            <tr key={document.id}>
-              <td>{document.items.length}</td>
-              <td>
-                <button onClick={() => console.log('View details:', document.id)}>
-                  show bounding box
-                </button>
-              </td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
+    <div className="documents-page">
+      {/* Page header section */}
+      <header>
+        <h1>Document Viewer</h1>
+      </header>
+      {/* Main document viewing component */}
+      <DocumentViewer />
     </div>
   );
 };
 
-export default FileList;
+export default Documents;
