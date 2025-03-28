@@ -1,18 +1,35 @@
-export interface BoundingBox {
-    polygon: number[];
-    pageNumber: number;
-}
 
-export interface DocumentItem {
-    boundingBox: BoundingBox;
-    offset: number;
-    pageNumber: number;
-    documentId: string;
-    itemId: string;
+export interface polygon {
+    top: number;
+    left: number;
+    width: number;
+    height: number;
     origin: string;
 }
 
-export interface Document {
-    items: DocumentItem[];
-    documentId: string;
+export interface BoundingBox {
+  polygon: polygon;
+  pageNumber: number;
 }
+
+export interface MonetaryValue {
+  currency: string;
+  monetaryValue: number;
+}
+
+export interface Cell {
+  boundingBox: BoundingBox;
+  offset: number;
+  pageNumber: number;
+  documentId: string;
+  itemId: string;
+  origin: string;
+  value: string | number | MonetaryValue;
+}
+
+export interface Document {
+  cells: Cell[];
+  documentId: string;
+  body: string;
+}
+

@@ -18,7 +18,6 @@ npm install
 npm run dev
 ```
 
-The frontend application will run at `http://localhost:5174`
 
 ## Assessment Requirements
 
@@ -41,6 +40,7 @@ The frontend application will run at `http://localhost:5174`
 
 ## Questions?
 
+Once you have finished the assessment either send us a link to your github repo or zip the folder and send it to us.
 If you have any questions or run into technical issues, please reach out to us
 
 Good luck with your assessment! 
