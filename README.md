@@ -1,6 +1,9 @@
 # Document Viewer Technical Assessment
 
-Thank you for participating in our technical assessment! This exercise will evaluate your ability to create an interactive document viewer.
+## Project Use Case
+- You are a logistics forwarder processing customs declarations
+- You will have shipment related documents read out by an LLM
+- You as an operator need to review the items before confirming the read out is correct and ready to be processed
 
 ## Getting Started
 
@@ -23,24 +26,21 @@ npm run dev
 
 ### Main Requirements
 - Render a documents table in a new page
-- Load document from the backend when page opens (endpoint is already set but is currently not being called anywhere in the frontend)
+- Load document from the backend when page opens (assume endpoint is already set up in the backend)
+- Create a service that fetches the document from the backend
 - Store response in Redux store
 - Create a bounding box and document viewer
-- render the image base64 data in to a docment viewer and add bounding boxes of the items included in the response
+- Create a table that displays the document items
 
 ### Interaction Requirements
-- Clicking an item in the table should highlight or show selected the corresponding bounding box in the document viewer
+- The cells in the document should be mapped to unique items showing all relevant values in the table row with one item id
+- Clicking a unique item in the table should display the corresponding bounding boxes in the document viewer
 - Clicking a bounding box should highlight the corresponding row in the table
-- Implement a toggle option on the table row  to show either all bounding boxes or just one
+- Implement a toggle to show either all bounding boxes or just one
 - The bounding boxes should hold their size when the page is resized
-- the bounding boxes should show the title of the attribute they correlate to
-- take in to consideration that the bounding boxes unit of measure is in inches you can use the azure ocr documentation for further reference
-
-
 
 ## Questions?
 
-Once you have finished the assessment either send us a link to your github repo or zip the folder and send it to us.
-If you have any questions or run into technical issues, please reach out to us
+If you have any questions or run into technical issues, please reach out to us.
 
 Good luck with your assessment! 
