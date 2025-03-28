@@ -8,14 +8,14 @@ Thank you for participating in our technical assessment! This exercise will eval
 ```bash
 cd backend
 npm install
-npm run dev
+npm run start
 ```
 
 ### Frontend Setup
 ```bash
 cd frontend
 npm install
-npm run start
+npm run dev
 ```
 
 The frontend application will run at `http://localhost:5174`
