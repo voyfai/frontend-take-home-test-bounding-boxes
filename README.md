@@ -21,7 +21,6 @@ npm install
 npm run dev
 ```
 
-
 ## Assessment Requirements
 
 ### Main Requirements
@@ -33,14 +32,17 @@ npm run dev
 - Create a table that displays the document items
 
 ### Interaction Requirements
-- The cells in the document should be mapped to unique items showing all relevant values in the table row with one item id
-- Clicking a unique item in the table should display the corresponding bounding boxes in the document viewer
+- The cells in the document should be mapped to unique items showing all relevant values in the table row with one item ID
+- Clicking a unique item in the table should display all  corresponding bounding boxes in the document viewer
 - Clicking a bounding box should highlight the corresponding row in the table
-- Implement a toggle to show either all bounding boxes or just one
+- clicking on a bounging box  when all bounding boxes are visible will highlight the row in the table and only that bounding box will be highlighted in the bounding box viewer
+- clicking on the bounding box when it is the only box selected will then show all bounding boxes
 - The bounding boxes should hold their size when the page is resized
 
 ## Questions?
 
 If you have any questions or run into technical issues, please reach out to us.
+
+Once you have finished the assessment either send us a link to your github repo or zip the folder and send it to us.
 
 Good luck with your assessment! 
