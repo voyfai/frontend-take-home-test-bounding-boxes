@@ -8,14 +8,14 @@ Thank you for participating in our technical assessment! This exercise will eval
 ```bash
 cd backend
 npm install
-npm run dev
+npm run start
 ```
 
 ### Frontend Setup
 ```bash
 cd frontend
 npm install
-npm run start
+npm run dev
 ```
 
 The frontend application will run at `http://localhost:5174`
@@ -27,7 +27,7 @@ The frontend application will run at `http://localhost:5174`
 - Load document from the backend when page opens (endpoint is already set but is currently not being called anywhere in the frontend)
 - Store response in Redux store
 - Create a bounding box and document viewer
-- render the image base64 data in to a doucment viewer and add bounding boxes of the items included in the response
+- render the image base64 data in to a docment viewer and add bounding boxes of the items included in the response
 
 ### Interaction Requirements
 - Clicking an item in the table should highlight or show selected the corresponding bounding box in the document viewer
@@ -35,6 +35,7 @@ The frontend application will run at `http://localhost:5174`
 - Implement a toggle option on the table row  to show either all bounding boxes or just one
 - The bounding boxes should hold their size when the page is resized
 - the bounding boxes should show the title of the attribute they correlate to
+- take in to consideration that the bounding boxes unit of measure is in inches you can use the azure ocr documentation for further reference
 
 
 
