@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from 'react-redux'
 import "../pages/Documents.css"
 import { AppDispatch, RootState } from '../store/store';
 
-const FileList = () => {
+export const DocumentsViewer = () => {
   const dispatch = useDispatch<AppDispatch>();
   const { documents } = useSelector((state: RootState) => state.documents);
 
@@ -21,8 +21,8 @@ const FileList = () => {
         </thead>
         <tbody>
           {documents.map((document) => (
-            <tr key={document.id}>
-              <td>{document.items.length}</td>
+            <tr key={document.documentId}>
+              <td>{document.cells.length}</td>
               <td>
                 <button onClick={() => console.log('View details:', document.id)}>
                   show bounding box

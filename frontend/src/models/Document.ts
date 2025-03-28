@@ -1,5 +1,5 @@
 
-export interface IBoundingBox {
+export interface polygon {
     top: number;
     left: number;
     width: number;
@@ -7,16 +7,31 @@ export interface IBoundingBox {
     origin: string;
 }
 
-export interface item {
-    content: string;
-    boundingBox: IBoundingBox;
+export interface BoundingBox {
+  polygon: polygon;
+  pageNumber: number;
 }
 
-export interface IDocument {
-  id: string;
-  name: string;
-  items: item[];
-  binaryData: string;
+export interface MonetaryValue {
+  currency: string;
+  monetaryValue: number;
 }
 
-export default IDocument;
+export interface Cell {
+  boundingBox: BoundingBox;
+  offset: number;
+  pageNumber: number;
+  documentId: string;
+  itemId: string;
+  origin: string;
+  value: string | number | MonetaryValue;
+}
+
+export interface Document {
+  cells: Cell[];
+  documentId: string;
+  body: string;
+}
+
+
+export default Document;
